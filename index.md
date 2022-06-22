@@ -9,5 +9,8 @@ I am currently working on this cool project, see this cool figure:
 
 ![snapshot of random](https://github.com/MCOSI/MCOSI.github.io/blob/main/samplescreenshot.png)
 
-another try at snapshot
-![](
+another try at snapshot, right click on image and copy image address from repos
+![](https://github.com/MCOSI/MCOSI.github.io/blob/main/samplescreenshot.png?raw=true
+
+third option, in img repo location, right click on download button and select copy address
+![](https://github.com/MCOSI/MCOSI.github.io/blob/main/samplescreenshot.png)
